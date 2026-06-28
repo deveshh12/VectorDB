@@ -131,11 +131,10 @@ You should see both models listed.
 Open **PowerShell** and run:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/VectorDB.git
+git clone https://github.com/deveshh12/VectorDB.git
 cd VectorDB
 ```
 
-*(Replace `YOUR_USERNAME` with the actual GitHub username)*
 
 ---
 
@@ -343,4 +342,4 @@ Recompile and restart.
 
 ## License
 
-MIT — use this however you want.
+This project is open source and available under the ISC License.
